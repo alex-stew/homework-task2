@@ -1,6 +1,6 @@
 # homework-task2
 
-This weeks homework task was to create a portfolio/bio website drawig o the kowledge and practice thhat we have been throughh over the last 2 weeks.
+This week's homework task was to create a portfolio/bio website drawing on the knowledge and practice that we have been through over the last two weeks.
 
 Functions required as a minimum by the site:
         - a navbar 
@@ -9,12 +9,12 @@ Functions required as a minimum by the site:
     ~without excessive use of media queries
            BONUS
             +sticky footer 
-            +use sub col and sub rows on portfolio page
+            +use sub col and sub rows on the portfolio page
 
-I first approached this by wire-framing out each of the page designs in my notebook to give me an opportuity to think about style, design flow - and probably most importantly which layout structures would be needed. Particularly useful for understading my grid strucutre whhere it would be used.
+I first approached this by wire-framing out each of the page designs in my notebook to allow me to think about style, design flow - and probably most importantly, which layout structures would be needed. This process is particularly useful, in understanding my grid structure better, and where it would be used.
 
-The great thing about a resource such as bootstrap is that thhey hhave many avaliable classes desinged with responsive page elements very much as thhe number 1 priority. In todays day and age you really ca't design websites withhout consdierig hhow they will act and perform whhen viewed on a mobile device - as most content that is avaliable in the ecosphere is consumed.
+The great thing about a resource such as bootstrap is that they have many available classes designed with responsive page elements very much as the top priority. In today's day and age, you can't design websites without considering how they will act and perform when viewed on a mobile device - as most content that is available in the ecosphere is consumed.
 
-Committing - i found myself getting stuck withh certain page elements which meant that i spennt a long period of time trying different solutions without committing my exact chhanges, as most did not result in a solution.
+Committing - I found myself getting stuck with certain page elements which meant that I spent a long time trying different solutions without committing my exact changes, as most did not result in a solution.
 
 
