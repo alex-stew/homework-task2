@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,6 +14,8 @@
         integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
         crossorigin="anonymous"></script>
 
+    <script src="https://kit.fontawesome.com/761f2d282b.js" crossorigin="anonymous"></script>
+
     <link rel="stylesheet" href="./style.css">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -21,22 +24,44 @@
         rel="stylesheet">
 
 </head>
+
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light";>
-        <div class="container-fluid" style="background-color: rgba(239, 250, 240, 0.911);">
-            <a class="navbar-brand" href="#"> <img id="logo-image" src="./edenLogo.v4.png" alt="logo"></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <a class="nav-link" href="./index.html">Home</a>
-                    <a class="nav-link active" aria-current="page" href="./portfolio.html">Portfolio</a>
-                    <a class="nav-link" href="./contact.html">Contact</a>
+    <header>
+        <!-- navigation direct target links used -->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light" ;>
+            <div class="container-fluid" style="background-color: rgba(239, 250, 240, 0.911);">
+                <a class="navbar-brand" href="#"> <img id="logo-image" src="./edenLogo.v4.png" alt="logo"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link" href="./index.html">Home</a>
+                        <a class="nav-link active" aria-current="page" href="./portfolio.html">Portfolio</a>
+                        <a class="nav-link" href="./contact.html">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+
+
+    <!-- footer -->
+    <footer class="footer">
+        <div class="row">
+            <div class="col d-flex flex-row">
+                <span class="sigBox"><img id="sig" src="./edenSig.v5.png" alt="signature"></span>
+                <div class="social mx-auto">
+                    <i class="fab fa-linkedin fa-2x"></i><i class="fab fa-facebook-square fa-2x"></i><i
+                        class="fab fa-github-square fa-2x"></i>
                 </div>
             </div>
         </div>
-    </nav>
+    </footer>
 </body>
+
 </html>
